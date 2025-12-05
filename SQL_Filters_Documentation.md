@@ -56,3 +56,10 @@ This SQL query returns all employees who at not in the IT department, The keywor
 Summary
 [We ran a SQL query and applied filters AND, OR, NOT to obtain specific information about employees, their machines, and the departments they belong to from the database. We also used the LIKE operator to search for patterns with the % sign.]
 
+## 🛠️ Deployment and Version Control (Git) Notes
+
+To ensure this project was deployed correctly, I overcame significant version control challenges:
+
+* **Challenge:** Resolved complex file path and directory structure conflicts in the Linux command-line environment (CLI) during initial uploads.
+* **Solution:** Demonstrated strong command-line proficiency by executing robust cleanup and verification, leading to a successful and clean repository structure.
+* **Authentication & Security:** Mastered the use of advanced Git authentication by configuring and utilizing a **Personal Access Token (PAT)** for secure remote pushing to GitHub.
